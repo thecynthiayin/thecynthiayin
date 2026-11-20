@@ -8,10 +8,10 @@
 
 > Learning every day, building every weekend
 
-## 🌟 About Me
+##  About Me
 
-- 🌱 **Learning:** Business Automation Tools
-- 👯 **Open to:** Web Developing Tools, & Automation Tools
+-  **Learning:** Business Automation Tools
+-  **Open to:** Web Developing Tools, & Automation Tools
 
 ## 🛠️ Tech Stack
 
