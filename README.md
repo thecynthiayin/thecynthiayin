@@ -13,7 +13,7 @@
 -  **Learning:** Business Automation Tools
 -  **Open to:** Web Developing Tools, & Automation Tools
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-7334b2?style=for-the-badge)
@@ -27,7 +27,7 @@
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-8134b2?style=for-the-badge)
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -40,14 +40,14 @@
 
 </div>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Link |
 |---------|-------------|------|
 | **NovaRoute AI** | An internship recommendation platform using LLMs, RAG, semantic search, and separate student and employer workflows. | [View →](https://github.com/thecynthiayin/novaroute.git) |
 | **Assignment Tracker** | A PHP/MySQL web app with authentication and assignment management for organizing coursework. | [View →](https://github.com/thecynthiayin/Assignment-Tracker.git) |
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
