@@ -31,13 +31,12 @@
 
 <div align="center">
 
-![Maya Liu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thecynthiayin&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Han Su Yin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thecynthiayin&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thecynthiayin&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thecynthiayin&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thecynthiayin&theme=radical&no-frame=true&row=1&column=7)
 
 </div>
 
