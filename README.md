@@ -4,16 +4,14 @@
 
 </div>
 
-# 👋 Hi, I'm Maya Liu!
+# 👋 Hi, I'm Han Su Yin!
 
 > Learning every day, building every weekend
 
 ## 🌟 About Me
 
-- 🔭 **Currently building:** my first full-stack project — a study planner app
-- 🌱 **Learning:** React, Node.js, and system design
-- 👯 **Open to:** beginner-friendly open-source contributions
-- ⚡ **Fun fact:** I went from Hello World to deploying my first app in 3 months
+- 🌱 **Learning:** Business Automation Tools
+- 👯 **Open to:** Web Developing Tools, & Automation Tools
 
 ## 🛠️ Tech Stack
 
