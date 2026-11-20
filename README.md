@@ -11,7 +11,7 @@
 ##  About Me
 
 -  **Learning:** Business Automation Tools
--  **Open to:** Web Developing Tools, & Automation Tools
+-  **Open to:** Web Developing Tools & Automation Tools
 
 ##  Tech Stack
 
